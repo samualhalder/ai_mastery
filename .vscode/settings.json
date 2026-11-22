@@ -1,0 +1,6 @@
+{
+  "python.analysis.extraPaths": [
+    "src/ai_mastery_practice/04_multi_head_attention",
+    "src/ai_mastery_practice/05_positional_encoding"
+  ]
+}

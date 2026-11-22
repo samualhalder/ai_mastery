@@ -1,0 +1,11 @@
+import numpy as np
+
+x=np.array([
+    [1,0,1],
+    [0,2,1],
+    [0,1,1]
+])
+
+result = x @ x.T
+
+print(result)
